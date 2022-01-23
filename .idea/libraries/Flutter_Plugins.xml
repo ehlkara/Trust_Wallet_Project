@@ -1,6 +1,8 @@
 <component name="libraryTable">
   <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
-    <CLASSES />
+    <CLASSES>
+      <root url="file://E:/src/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/trust_wallet_core-0.0.4" />
+    </CLASSES>
     <JAVADOC />
     <SOURCES />
   </library>
